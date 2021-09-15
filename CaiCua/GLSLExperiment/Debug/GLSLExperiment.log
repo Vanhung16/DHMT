@@ -1,0 +1,13 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+e:\đhmt\caicua\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caicua\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caicua\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caicua\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caicua\glslexperiment\example1.cpp(155): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\đhmt\caicua\glslexperiment\example1.cpp(160): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\đhmt\caicua\glslexperiment\example1.cpp(161): error C2374: 'matrix_loc': redefinition; multiple initialization
+  e:\đhmt\caicua\glslexperiment\example1.cpp(156): note: see declaration of 'matrix_loc'
+e:\đhmt\caicua\glslexperiment\example1.cpp(165): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\đhmt\caicua\glslexperiment\example1.cpp(166): error C2374: 'matrix_loc': redefinition; multiple initialization
+  e:\đhmt\caicua\glslexperiment\example1.cpp(156): note: see declaration of 'matrix_loc'

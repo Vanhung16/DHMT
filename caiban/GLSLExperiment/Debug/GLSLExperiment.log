@@ -1,0 +1,24 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+e:\đhmt\caiban\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caiban\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caiban\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caiban\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+e:\đhmt\caiban\glslexperiment\example1.cpp(119): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(127): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(135): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(136): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(137): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(138): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(141): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(154): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(178): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(183): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(199): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(204): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(208): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(213): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(217): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\đhmt\caiban\glslexperiment\example1.cpp(222): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+example1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLSLExperiment.vcxproj -> E:\ĐHMT\caiban\Debug\GLSLExperiment.exe
